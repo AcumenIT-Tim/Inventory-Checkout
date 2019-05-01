@@ -3,6 +3,7 @@
 build/
 nbproject/
 out/production
+src/main
 
 #Ignore these files
 build.xml
