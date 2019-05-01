@@ -1,0 +1,10 @@
+#Ignore these folders
+.idea/
+build/
+nbproject/
+out/production
+
+#Ignore these files
+build.xml
+InventoryCheckout.iml
+manifest.mf 
